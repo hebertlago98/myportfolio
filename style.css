@@ -2,6 +2,8 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    background-color: rgb(53, 177, 135);
+    color: white;
   }
   
   body {
@@ -39,4 +41,8 @@
     color: black;
     text-align: justify;
   }
+  footer{
+    display: flex;
+    justify-content: center;
+}
   
